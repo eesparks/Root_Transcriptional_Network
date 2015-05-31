@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta name="Root_Transcriptional_Network" content="Root_Transcriptional_Network" />
+<meta charset=utf-8 />
+<title>Root Transcriptional Network</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <link href="css/body.css" rel="stylesheet" />
+  <link rel="stylesheet" href="src/jquery.cytoscape-panzoom.css" />
+  <link rel="stylesheet" href="css/font-awesome.css" /> 
+
+
+</head>
+<body>
+  <script src="src/jquery.min.js"></script>
+  <script src="http://cytoscape.github.io/cytoscape.js/api/cytoscape.js-latest/cytoscape.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+
+  <script src="js/generalpurpose_network.js"></script>
+  <script type="text/javascript" src="src/jquery.cytoscape-panzoom.js"></script>
+
+<nav>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+      <ul class="nav nav-tabs" role="tablist">
+        <li ><a onclick="drawNetwork('json/full_network.json')" href="javascript:void(0);">1_Full_Network</a></li>
+        <li ><a onclick="drawNetwork('json/clusters.json')" href="javascript:void(0);">2_TF_Clusters</a></li>
+        <li ><a onclick="drawNetwork('json/TF_motifs.json')" href="javascript:void(0);">3_Motifs_Network_Supp</a></li>
+        <li ><a onclick="drawNetwork('json/sub_network1.json')" href="javascript:void(0);">4_SHR_All</a></li>
+        <li ><a onclick="drawNetwork('json/sub_network2.json')" href="javascript:void(0);">5_SCR_All</a></li>
+        <li ><a onclick="drawNetwork('json/sub_network3.json')" href="javascript:void(0);">6_SHR_Validated</a></li>
+        <li ><a onclick="drawNetwork('json/sub_network4.json')" href="javascript:void(0);">7_SCR_Validated</a></li>
+        <li ><a onclick="drawNetwork('json/light_network.json')" href="javascript:void(0);">8_Light</a></li>
+
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Cite<span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="#">Action</a></li>
+          </ul>
+        </li>
+      </ul>
+</nav>
+
+<div class="container">
+   <div class="row">
+
+      <div class="col-lg-4">
+    <div class="input-group">
+      <input type="text" class="form-control", id="search-box" placeholder="Search for Gene">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button">Go!</button>
+      </span>
+    </div><!-- /input-group -->
+   </div>
+    <div class="col-lg-2"> Gene Selected:
+      <span  type="text" id=gene_name> </span>
+    </div>
+     <div class="col-lg-2">
+     <button type="button" id="csv_output"> download interactions</button>
+   </div>
+   </div>
+   <div class="row">
+     <div class="col-md-2">
+       <div class="color-box" style="background-color: #33ff00;"> </div> <div class="text-box">= KNA7 root coexpressed </div> </div>
+     <div class="col-md-2">
+       <div class="color-box" style="background-color: #0033ff;"> </div> <div class="text-box">= Cellulose biosynthesis genes </div> </div>
+     <div class="col-md-2">
+       <div class="color-box" style="background-color: #33ccff;"> </div> <div class="text-box">= Cellulose coexpressed (Persson et al)</div> </div>
+     <div class="col-md-2">
+       <div class="color-box" style="background-color: #ff00cc;"> </div> <div class="text-box">= HD-ZIP III </div> </div>
+     <div class="col-md-2">
+       <div class="color-box" style="background-color: #ff0000;"> </div><div class="text-box">= Lignin </div> </div>
+     <div class="col-md-2">
+       <div class="color-box" style="background-color: #9900ff;"> </div><div class="text-box">= Secondary cell wall regulating transcription factor </div> </div>
+   </div>  
+  
+   <div id="cy"></div>
+ 
+</div>
+</body>
+</html>
