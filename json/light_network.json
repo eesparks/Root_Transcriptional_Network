@@ -1,0 +1,295 @@
+{
+    "nodes": [
+        {
+            "position": {
+                "y": 189.5, 
+                "x": 94.0
+            }, 
+            "data": {
+                "faveShape": "roundrectangle", 
+                "h": 30.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#666666", 
+                "id": "77", 
+                "name": "SHORTROOT"
+            }
+        }, 
+        {
+            "position": {
+                "y": 6.695233345031738, 
+                "x": -172.0
+            }, 
+            "data": {
+                "faveShape": "roundrectangle", 
+                "h": 30.0, 
+                "node_type": "notsure", 
+                "w": 70.0, 
+                "faveColor": "#666666", 
+                "id": "76", 
+                "name": "PIF3"
+            }
+        }, 
+        {
+            "position": {
+                "y": -155.0, 
+                "x": -77.0
+            }, 
+            "data": {
+                "faveShape": "vee", 
+                "h": 40.0, 
+                "node_type": "notsure", 
+                "w": 110.0, 
+                "faveColor": "#666666", 
+                "id": "75", 
+                "name": "Light"
+            }
+        }, 
+        {
+            "position": {
+                "y": 189.5, 
+                "x": -80.0
+            }, 
+            "data": {
+                "faveShape": "roundrectangle", 
+                "h": 30.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#666666", 
+                "id": "74", 
+                "name": "SCARECROW"
+            }
+        }, 
+        {
+            "position": {
+                "y": 6.695233345031738, 
+                "x": -83.25
+            }, 
+            "data": {
+                "faveShape": "roundrectangle", 
+                "h": 30.0, 
+                "node_type": "notsure", 
+                "w": 70.0, 
+                "faveColor": "#666666", 
+                "id": "73", 
+                "name": "DEWAX"
+            }
+        }, 
+        {
+            "position": {
+                "y": -155.0, 
+                "x": 161.0
+            }, 
+            "data": {
+                "faveShape": "vee", 
+                "h": 40.0, 
+                "node_type": "notsure", 
+                "w": 110.0, 
+                "faveColor": "#666666", 
+                "id": "72", 
+                "name": "Dark"
+            }
+        }, 
+        {
+            "position": {
+                "y": 6.695233345031738, 
+                "x": 94.25
+            }, 
+            "data": {
+                "faveShape": "roundrectangle", 
+                "h": 30.0, 
+                "node_type": "notsure", 
+                "w": 70.0, 
+                "faveColor": "#666666", 
+                "id": "80", 
+                "name": "DF1"
+            }
+        }, 
+        {
+            "position": {
+                "y": 6.695233345031738, 
+                "x": 5.5
+            }, 
+            "data": {
+                "faveShape": "roundrectangle", 
+                "h": 30.0, 
+                "node_type": "notsure", 
+                "w": 70.0, 
+                "faveColor": "#666666", 
+                "id": "79", 
+                "name": "ERF6"
+            }
+        }, 
+        {
+            "position": {
+                "y": 6.695233345031738, 
+                "x": 183.0
+            }, 
+            "data": {
+                "faveShape": "roundrectangle", 
+                "h": 30.0, 
+                "node_type": "notsure", 
+                "w": 70.0, 
+                "faveColor": "#666666", 
+                "id": "78", 
+                "name": "GBF1"
+            }
+        }
+    ], 
+    "edges": [
+        {
+            "data": {
+                "source": "80", 
+                "target": "77", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "triangle", 
+                "faveColor": "#009933", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "DF1 (PD) SHORTROOT", 
+                "line-width": "DF1 (PD) SHORTROOT"
+            }
+        }, 
+        {
+            "data": {
+                "source": "72", 
+                "target": "78", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "tee", 
+                "faveColor": "#ff0000", 
+                "fesign": 7, 
+                "lineStyle": "dashed", 
+                "id": "Dark (Lit) GBF1", 
+                "line-width": "Dark (Lit) GBF1"
+            }
+        }, 
+        {
+            "data": {
+                "source": "75", 
+                "target": "76", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "tee", 
+                "faveColor": "#ff0000", 
+                "fesign": 7, 
+                "lineStyle": "dashed", 
+                "id": "Light (Lit) PIF3", 
+                "line-width": "Light (Lit) PIF3"
+            }
+        }, 
+        {
+            "data": {
+                "source": "72", 
+                "target": "73", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "tee", 
+                "faveColor": "#ff0000", 
+                "fesign": 7, 
+                "lineStyle": "dashed", 
+                "id": "Dark (Lit) DEWAX", 
+                "line-width": "Dark (Lit) DEWAX"
+            }
+        }, 
+        {
+            "data": {
+                "source": "75", 
+                "target": "80", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "tee", 
+                "faveColor": "#ff0000", 
+                "fesign": 7, 
+                "lineStyle": "dashed", 
+                "id": "Light (Lit) DF1", 
+                "line-width": "Light (Lit) DF1"
+            }
+        }, 
+        {
+            "data": {
+                "source": "73", 
+                "target": "77", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "tee", 
+                "faveColor": "#ff0000", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "DEWAX (PD) SHORTROOT", 
+                "line-width": "DEWAX (PD) SHORTROOT"
+            }
+        }, 
+        {
+            "data": {
+                "source": "79", 
+                "target": "77", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "tee", 
+                "faveColor": "#ff0000", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "ERF6 (PD) SHORTROOT", 
+                "line-width": "ERF6 (PD) SHORTROOT"
+            }
+        }, 
+        {
+            "data": {
+                "source": "75", 
+                "target": "79", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "triangle", 
+                "faveColor": "#009933", 
+                "fesign": 7, 
+                "lineStyle": "dashed", 
+                "id": "Light (Lit) ERF6", 
+                "line-width": "Light (Lit) ERF6"
+            }
+        }, 
+        {
+            "data": {
+                "source": "73", 
+                "target": "74", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "triangle", 
+                "faveColor": "#009933", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "DEWAX (PD) SCARECROW", 
+                "line-width": "DEWAX (PD) SCARECROW"
+            }
+        }, 
+        {
+            "data": {
+                "source": "76", 
+                "target": "74", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "tee", 
+                "faveColor": "#ff0000", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "PIF3 (PD) SCARECROW", 
+                "line-width": "PIF3 (PD) SCARECROW"
+            }
+        }, 
+        {
+            "data": {
+                "source": "78", 
+                "target": "77", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "tee", 
+                "faveColor": "#ff0000", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "GBF1 (PD) SHORTROOT", 
+                "line-width": "GBF1 (PD) SHORTROOT"
+            }
+        }
+    ]
+}

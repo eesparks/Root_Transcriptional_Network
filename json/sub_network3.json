@@ -1,0 +1,485 @@
+{
+    "nodes": [
+        {
+            "position": {
+                "y": 137.0, 
+                "x": -336.0
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 40.0, 
+                "node_type": "notsure", 
+                "w": 215.0, 
+                "faveColor": "#666666", 
+                "id": "88", 
+                "name": "BBX21 (AT1G75540)"
+            }
+        }, 
+        {
+            "position": {
+                "y": 4.0, 
+                "x": 222.0
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 40.0, 
+                "node_type": "notsure", 
+                "w": 215.0, 
+                "faveColor": "#666666", 
+                "id": "82", 
+                "name": "E2Fc (AT1G47870)"
+            }
+        }, 
+        {
+            "position": {
+                "y": 91.5, 
+                "x": -307.0
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 40.0, 
+                "node_type": "notsure", 
+                "w": 215.0, 
+                "faveColor": "#666666", 
+                "id": "83", 
+                "name": "bHLH093 (AT5G65640)"
+            }
+        }, 
+        {
+            "position": {
+                "y": 182.0, 
+                "x": -367.0
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 40.0, 
+                "node_type": "notsure", 
+                "w": 215.0, 
+                "faveColor": "#666666", 
+                "id": "80", 
+                "name": "AT2G47890"
+            }
+        }, 
+        {
+            "position": {
+                "y": -85.5, 
+                "x": -119.0
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 40.0, 
+                "node_type": "notsure", 
+                "w": 215.0, 
+                "faveColor": "#666666", 
+                "id": "81", 
+                "name": "AT2G44730"
+            }
+        }, 
+        {
+            "position": {
+                "y": -85.5, 
+                "x": 97.0
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 40.0, 
+                "node_type": "notsure", 
+                "w": 215.0, 
+                "faveColor": "#666666", 
+                "id": "86", 
+                "name": "bZIP30 (AT2G21230)"
+            }
+        }, 
+        {
+            "position": {
+                "y": 224.0, 
+                "x": -11.0
+            }, 
+            "data": {
+                "faveShape": "roundrectangle", 
+                "h": 40.0, 
+                "node_type": "notsure", 
+                "w": 250.0, 
+                "faveColor": "#666666", 
+                "id": "87", 
+                "name": "SCARECROW"
+            }
+        }, 
+        {
+            "position": {
+                "y": -40.0, 
+                "x": -167.0
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 40.0, 
+                "node_type": "notsure", 
+                "w": 215.0, 
+                "faveColor": "#666666", 
+                "id": "84", 
+                "name": "bHLH105 (AT5G54680)"
+            }
+        }, 
+        {
+            "position": {
+                "y": 48.5, 
+                "x": 270.0
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 40.0, 
+                "node_type": "notsure", 
+                "w": 215.0, 
+                "faveColor": "#666666", 
+                "id": "85", 
+                "name": "bHLH121 (AT3G19860)"
+            }
+        }, 
+        {
+            "position": {
+                "y": 226.0, 
+                "x": -401.0
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 40.0, 
+                "node_type": "notsure", 
+                "w": 215.0, 
+                "faveColor": "#666666", 
+                "id": "77", 
+                "name": "ERF104 (AT5G61600)"
+            }
+        }, 
+        {
+            "position": {
+                "y": 226.0, 
+                "x": 374.0
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 40.0, 
+                "node_type": "notsure", 
+                "w": 215.0, 
+                "faveColor": "#666666", 
+                "id": "76", 
+                "name": "AT1G61730"
+            }
+        }, 
+        {
+            "position": {
+                "y": 4.0, 
+                "x": -223.0
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 40.0, 
+                "node_type": "notsure", 
+                "w": 215.0, 
+                "faveColor": "#666666", 
+                "id": "75", 
+                "name": "HB34 (AT3G28920)"
+            }
+        }, 
+        {
+            "position": {
+                "y": 182.0, 
+                "x": 350.0
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 40.0, 
+                "node_type": "notsure", 
+                "w": 215.0, 
+                "faveColor": "#666666", 
+                "id": "74", 
+                "name": "DEWAX (AT5G61590)"
+            }
+        }, 
+        {
+            "position": {
+                "y": 48.5, 
+                "x": -278.0
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 40.0, 
+                "node_type": "notsure", 
+                "w": 215.0, 
+                "faveColor": "#666666", 
+                "id": "73", 
+                "name": "PIF3 (AT1G09530)"
+            }
+        }, 
+        {
+            "position": {
+                "y": -40.0, 
+                "x": 148.0
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 40.0, 
+                "node_type": "notsure", 
+                "w": 215.0, 
+                "faveColor": "#666666", 
+                "id": "72", 
+                "name": "DREB2A (AT5G05410)"
+            }
+        }, 
+        {
+            "position": {
+                "y": 137.0, 
+                "x": 342.0
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 40.0, 
+                "node_type": "notsure", 
+                "w": 215.0, 
+                "faveColor": "#666666", 
+                "id": "79", 
+                "name": "AREB3 (AT3G56850)"
+            }
+        }, 
+        {
+            "position": {
+                "y": 91.5, 
+                "x": 318.0
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 40.0, 
+                "node_type": "notsure", 
+                "w": 215.0, 
+                "faveColor": "#666666", 
+                "id": "78", 
+                "name": "ARF8 (AT5G37020)"
+            }
+        }
+    ], 
+    "edges": [
+        {
+            "data": {
+                "source": "76", 
+                "target": "87", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#666666", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT1G61730 (PD) SCARECROW", 
+                "line-width": "AT1G61730 (PD) SCARECROW"
+            }
+        }, 
+        {
+            "data": {
+                "source": "81", 
+                "target": "87", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#666666", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT2G44730 (PD) SCARECROW", 
+                "line-width": "AT2G44730 (PD) SCARECROW"
+            }
+        }, 
+        {
+            "data": {
+                "source": "79", 
+                "target": "87", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#666666", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AREB3 (AT3G56850) (PD) SCARECROW", 
+                "line-width": "AREB3 (AT3G56850) (PD) SCARECROW"
+            }
+        }, 
+        {
+            "data": {
+                "source": "75", 
+                "target": "87", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#666666", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "HB34 (AT3G28920) (PD) SCARECROW", 
+                "line-width": "HB34 (AT3G28920) (PD) SCARECROW"
+            }
+        }, 
+        {
+            "data": {
+                "source": "78", 
+                "target": "87", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#666666", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "ARF8 (AT5G37020) (PD) SCARECROW", 
+                "line-width": "ARF8 (AT5G37020) (PD) SCARECROW"
+            }
+        }, 
+        {
+            "data": {
+                "source": "73", 
+                "target": "87", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#666666", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "PIF3 (AT1G09530) (PD) SCARECROW", 
+                "line-width": "PIF3 (AT1G09530) (PD) SCARECROW"
+            }
+        }, 
+        {
+            "data": {
+                "source": "77", 
+                "target": "87", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#666666", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "ERF104 (AT5G61600) (PD) SCARECROW", 
+                "line-width": "ERF104 (AT5G61600) (PD) SCARECROW"
+            }
+        }, 
+        {
+            "data": {
+                "source": "84", 
+                "target": "87", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#666666", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "bHLH105 (AT5G54680) (PD) SCARECROW", 
+                "line-width": "bHLH105 (AT5G54680) (PD) SCARECROW"
+            }
+        }, 
+        {
+            "data": {
+                "source": "85", 
+                "target": "87", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#666666", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "bHLH121 (AT3G19860) (PD) SCARECROW", 
+                "line-width": "bHLH121 (AT3G19860) (PD) SCARECROW"
+            }
+        }, 
+        {
+            "data": {
+                "source": "86", 
+                "target": "87", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#666666", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "bZIP30 (AT2G21230) (PD) SCARECROW", 
+                "line-width": "bZIP30 (AT2G21230) (PD) SCARECROW"
+            }
+        }, 
+        {
+            "data": {
+                "source": "72", 
+                "target": "87", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#666666", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "DREB2A (AT5G05410) (PD) SCARECROW", 
+                "line-width": "DREB2A (AT5G05410) (PD) SCARECROW"
+            }
+        }, 
+        {
+            "data": {
+                "source": "83", 
+                "target": "87", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#666666", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "bHLH093 (AT5G65640) (PD) SCARECROW", 
+                "line-width": "bHLH093 (AT5G65640) (PD) SCARECROW"
+            }
+        }, 
+        {
+            "data": {
+                "source": "82", 
+                "target": "87", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#666666", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "E2Fc (AT1G47870) (PD) SCARECROW", 
+                "line-width": "E2Fc (AT1G47870) (PD) SCARECROW"
+            }
+        }, 
+        {
+            "data": {
+                "source": "74", 
+                "target": "87", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#666666", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "DEWAX (AT5G61590) (PD) SCARECROW", 
+                "line-width": "DEWAX (AT5G61590) (PD) SCARECROW"
+            }
+        }, 
+        {
+            "data": {
+                "source": "80", 
+                "target": "87", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#666666", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT2G47890 (PD) SCARECROW", 
+                "line-width": "AT2G47890 (PD) SCARECROW"
+            }
+        }, 
+        {
+            "data": {
+                "source": "88", 
+                "target": "87", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#666666", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "BBX21 (AT1G75540) (PD) SCARECROW", 
+                "line-width": "BBX21 (AT1G75540) (PD) SCARECROW"
+            }
+        }
+    ]
+}

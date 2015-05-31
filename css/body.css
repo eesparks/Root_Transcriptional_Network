@@ -1,0 +1,123 @@
+#body {
+  background: white;
+  font: 14px helvetica neue, helvetica, arial, sans-serif;
+}
+
+#network {
+ position: absolute;
+ top: 69px;
+ left: 10px;
+ right: 10px;
+ bottom: 10px;
+ border-radius:4px;
+}
+
+#cy {
+  border-top: 1px solid #888;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  z-index: 0;
+  float; left;
+  backgroud: red;
+}
+
+#key {
+  border-top: 1px solid #888;
+  border-left: 1px solid #888;
+ }
+
+
+#top-key {
+  background: white;
+}
+
+#bottom-key {
+  top: 480px;
+  background: white;
+  display: none;
+}
+
+
+
+#dashboard {
+  position: fixed;
+  height: 70px;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  background: #eeeee2;
+  padding-top: 0px;
+  padding-left: 10px;
+}
+
+#search_checkbox {
+  padding-top: 15px;
+  float: left;
+  width: 500px;
+}
+
+
+
+
+#checkboxs{
+  width: 500px;
+  float: left
+}
+
+
+.color-text-box {
+  clear: both;
+}
+
+.text-box{
+  padding-top : 5px;
+}
+
+.color-box {
+  width: 20px;
+  height: 20px;
+  margin: 5px 5px 5px 5px;
+  float: left;
+}
+
+.nav {
+  background-color:  #337ab7;
+  color: white;
+}
+
+.nav-tabs>li>a {
+  background-color: #337ab7;
+  color: white;
+}
+.nav-tabs>li>a {
+  border: none;
+}
+.nav-tabs>li>a:hover {
+  background-color: gray;
+  color: white;
+}
+.nav-tabs>li>a:focus {
+  background-color: gray;
+  color: white;
+}
+.container {
+  margin-left: 0;
+  margin-right:0;
+  margin-top: 10px;
+}
+
+
+.nav-tabs>li>a:focus {
+  background-color: gray;
+  color: white;
+}
+
+.nav-tabs>li>a:focus {
+  background-color: gray;
+  color: white;
+}
+
+.show-grid {
+  padding-top: 10px;
+}

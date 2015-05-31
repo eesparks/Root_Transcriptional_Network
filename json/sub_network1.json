@@ -1,0 +1,166 @@
+{
+    "nodes": [
+        {
+            "position": {
+                "y": 26.5, 
+                "x": -6.5
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 40.0, 
+                "node_type": "notsure", 
+                "w": 215.0, 
+                "faveColor": "#666666", 
+                "id": "308", 
+                "name": "DEWAX (AT5G61590)"
+            }
+        }, 
+        {
+            "position": {
+                "y": 77.0, 
+                "x": -183.5
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 40.0, 
+                "node_type": "notsure", 
+                "w": 215.0, 
+                "faveColor": "#666666", 
+                "id": "309", 
+                "name": "PIF3 (AT1G09530)"
+            }
+        }, 
+        {
+            "position": {
+                "y": 138.0, 
+                "x": -257.5
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 40.0, 
+                "node_type": "notsure", 
+                "w": 215.0, 
+                "faveColor": "#666666", 
+                "id": "310", 
+                "name": "DREB2A (AT5G05410)"
+            }
+        }, 
+        {
+            "position": {
+                "y": 80.0, 
+                "x": 117.5
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 40.0, 
+                "node_type": "notsure", 
+                "w": 215.0, 
+                "faveColor": "#666666", 
+                "id": "305", 
+                "name": "STK01 (AT1G61730)"
+            }
+        }, 
+        {
+            "position": {
+                "y": 208.5, 
+                "x": -12.5
+            }, 
+            "data": {
+                "faveShape": "roundrectangle", 
+                "h": 40.0, 
+                "node_type": "notsure", 
+                "w": 250.0, 
+                "faveColor": "#666666", 
+                "id": "306", 
+                "name": "SCARECROW"
+            }
+        }, 
+        {
+            "position": {
+                "y": 130.0, 
+                "x": 189.5
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 40.0, 
+                "node_type": "notsure", 
+                "w": 215.0, 
+                "faveColor": "#666666", 
+                "id": "307", 
+                "name": "HB34 (AT3G28920)"
+            }
+        }
+    ], 
+    "edges": [
+        {
+            "data": {
+                "source": "305", 
+                "target": "306", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "triangle", 
+                "faveColor": "#009933", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT1G61730 (PD) SCR", 
+                "line-width": "AT1G61730 (PD) SCR"
+            }
+        }, 
+        {
+            "data": {
+                "source": "310", 
+                "target": "306", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#999999", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT5G05410 (PD) SCR", 
+                "line-width": "AT5G05410 (PD) SCR"
+            }
+        }, 
+        {
+            "data": {
+                "source": "307", 
+                "target": "306", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "triangle", 
+                "faveColor": "#009933", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT3G28920 (PD) SCR", 
+                "line-width": "AT3G28920 (PD) SCR"
+            }
+        }, 
+        {
+            "data": {
+                "source": "308", 
+                "target": "306", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "triangle", 
+                "faveColor": "#009933", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT5G61590 (PD) SCR", 
+                "line-width": "AT5G61590 (PD) SCR"
+            }
+        }, 
+        {
+            "data": {
+                "source": "309", 
+                "target": "306", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "tee", 
+                "faveColor": "#ff0000", 
+                "fesign": 7, 
+                "lineStyle": "dashed", 
+                "id": "AT1G09530 (PD) SCR", 
+                "line-width": "AT1G09530 (PD) SCR"
+            }
+        }
+    ]
+}
