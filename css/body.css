@@ -121,3 +121,9 @@
 .show-grid {
   padding-top: 10px;
 }
+
+.nav-tabs>li.active>a {
+  color: White;
+  background-color: gray;
+  border: none;
+}
