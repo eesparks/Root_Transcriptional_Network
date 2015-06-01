@@ -81,6 +81,41 @@
   float: left;
 }
 
+.line{
+  width:30px;height:10px;
+  margin: 12px 5px 40px 5px;
+  float: left;
+
+}
+
+.dline{
+  border: none;
+  width:50px;height:0px;
+  border-top: dashed 5px #999;
+  margin: 12px 5px 40px 5px;
+  float: left;
+
+}
+.circle{
+  width:20px;height:20px;
+  border-radius:10px;
+  line-height:20px;
+  text-align:center;
+  margin: 5px 5px 5px 5px;
+  float: left;
+
+}
+
+.diamond{
+  width: 20px;
+  height: 20px;
+  transform: rotate(-45deg);
+  margin: 5px 5px 5px 5px;
+  float: left;
+
+
+}
+
 .nav {
   background-color:  #337ab7;
   color: white;
