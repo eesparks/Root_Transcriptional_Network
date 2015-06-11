@@ -69,7 +69,7 @@ class NodeLine(object):
     _slots_ = ("id","name","x","y","group","faveColor", "type")
 
     def __init__(self, xline):
-        shapes = {"round_rectangle":"roundrectangle", "parallelogram": "diamond","ellipse":"ellipse","vee":"vee"}
+        shapes = {"round_rectangle":"roundrectangle", "parallelogram": "diamond","ellipse":"ellipse","vee":"vee", "diamond":"diamond"}
         self.group = "nodes"
         self.cid = xline.get("id")
         #self.name = xline.get("label")
@@ -153,15 +153,15 @@ def main(xgmml_file, outfh):
     outfile.write(jsonformated)
 
 #main("/Users/gturco/Desktop/MallorieData_New/CytoscapeSession-2013_07_01-17_20//Sheet1.xgmml", "../Hazen_network.json")
-main("/Users/gturco/Documents/code/Brady/esparks/data/xml/sparks_full_network_clusters.xml", "../clusters.json")
-main("/Users/gturco/Documents/code/Brady/esparks/data/xml/full_network.xml", "../full_network.json")
-main("/Users/gturco/Documents/code/Brady/esparks/data/xml/higher_order_sub.xml", "../higher_order_sub.json")
-main("/Users/gturco/Documents/code/Brady/esparks/data/xml/light_network.xml", "../light_network.json")
-main("/Users/gturco/Documents/code/Brady/esparks/data/xml/sub_network1.xml", "../sub_network1.json")
-main("/Users/gturco/Documents/code/Brady/esparks/data/xml/sub_network2.xml", "../sub_network2.json")
-main("/Users/gturco/Documents/code/Brady/esparks/data/xml/sub_network3.xml", "../sub_network3.json")
-main("/Users/gturco/Documents/code/Brady/esparks/data/xml/sub_network4.xml", "../sub_network4.json")
-main("/Users/gturco/Documents/code/Brady/esparks/data/xml/tf_motifs.xml", "../tf_motifs.json")
+main("/Users/gturco/Documents/code/Brady/esparks/Root_Transcriptional_Network/data/xml/sparks_full_network_clusters.xml", "../json/clusters.json")
+main("/Users/gturco/Documents/code/Brady/esparks/Root_Transcriptional_Network/data/xml/full_network.xml", "../json/full_network.json")
+main("/Users/gturco/Documents/code/Brady/esparks/Root_Transcriptional_Network/data/xml/higher_order_sub.xml", "../json/higher_order_sub.json")
+main("/Users/gturco/Documents/code/Brady/esparks/Root_Transcriptional_Network/data/xml/light_network.xml", "../json/light_network.json")
+main("/Users/gturco/Documents/code/Brady/esparks/Root_Transcriptional_Network/data/xml/sub_network1.xml", "../json/sub_network1.json")
+main("/Users/gturco/Documents/code/Brady/esparks/Root_Transcriptional_Network/data/xml/sub_network2.xml", "../json/sub_network2.json")
+main("/Users/gturco/Documents/code/Brady/esparks/Root_Transcriptional_Network/data/xml/sub_network3.xml", "../json/sub_network3.json")
+main("/Users/gturco/Documents/code/Brady/esparks/Root_Transcriptional_Network/data/xml/sub_network4.xml", "../json/sub_network4.json")
+main("/Users/gturco/Documents/code/Brady/esparks/Root_Transcriptional_Network/data/xml/tf_motifs.xml", "../json/tf_motifs.json")
 
 
 

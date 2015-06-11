@@ -2,17 +2,17 @@
     "nodes": [
         {
             "position": {
-                "y": 189.5, 
-                "x": 94.0
+                "y": -155.0, 
+                "x": -77.0
             }, 
             "data": {
-                "faveShape": "roundrectangle", 
-                "h": 30.0, 
+                "faveShape": "vee", 
+                "h": 40.0, 
                 "node_type": "notsure", 
-                "w": 150.0, 
+                "w": 110.0, 
                 "faveColor": "#666666", 
                 "id": "77", 
-                "name": "SHORTROOT"
+                "name": "Light"
             }
         }, 
         {
@@ -32,23 +32,8 @@
         }, 
         {
             "position": {
-                "y": -155.0, 
-                "x": -77.0
-            }, 
-            "data": {
-                "faveShape": "vee", 
-                "h": 40.0, 
-                "node_type": "notsure", 
-                "w": 110.0, 
-                "faveColor": "#666666", 
-                "id": "75", 
-                "name": "Light"
-            }
-        }, 
-        {
-            "position": {
                 "y": 189.5, 
-                "x": -80.0
+                "x": 94.0
             }, 
             "data": {
                 "faveShape": "roundrectangle", 
@@ -56,68 +41,8 @@
                 "node_type": "notsure", 
                 "w": 150.0, 
                 "faveColor": "#666666", 
-                "id": "74", 
-                "name": "SCARECROW"
-            }
-        }, 
-        {
-            "position": {
-                "y": 6.695233345031738, 
-                "x": -83.25
-            }, 
-            "data": {
-                "faveShape": "roundrectangle", 
-                "h": 30.0, 
-                "node_type": "notsure", 
-                "w": 70.0, 
-                "faveColor": "#666666", 
-                "id": "73", 
-                "name": "DEWAX"
-            }
-        }, 
-        {
-            "position": {
-                "y": -155.0, 
-                "x": 161.0
-            }, 
-            "data": {
-                "faveShape": "vee", 
-                "h": 40.0, 
-                "node_type": "notsure", 
-                "w": 110.0, 
-                "faveColor": "#666666", 
-                "id": "72", 
-                "name": "Dark"
-            }
-        }, 
-        {
-            "position": {
-                "y": 6.695233345031738, 
-                "x": 94.25
-            }, 
-            "data": {
-                "faveShape": "roundrectangle", 
-                "h": 30.0, 
-                "node_type": "notsure", 
-                "w": 70.0, 
-                "faveColor": "#666666", 
-                "id": "80", 
-                "name": "DF1"
-            }
-        }, 
-        {
-            "position": {
-                "y": 6.695233345031738, 
-                "x": 5.5
-            }, 
-            "data": {
-                "faveShape": "roundrectangle", 
-                "h": 30.0, 
-                "node_type": "notsure", 
-                "w": 70.0, 
-                "faveColor": "#666666", 
-                "id": "79", 
-                "name": "ERF6"
+                "id": "75", 
+                "name": "SHORTROOT"
             }
         }, 
         {
@@ -131,16 +56,91 @@
                 "node_type": "notsure", 
                 "w": 70.0, 
                 "faveColor": "#666666", 
-                "id": "78", 
+                "id": "74", 
                 "name": "GBF1"
+            }
+        }, 
+        {
+            "position": {
+                "y": 6.695233345031738, 
+                "x": 5.5
+            }, 
+            "data": {
+                "faveShape": "roundrectangle", 
+                "h": 30.0, 
+                "node_type": "notsure", 
+                "w": 70.0, 
+                "faveColor": "#666666", 
+                "id": "73", 
+                "name": "ERF6"
+            }
+        }, 
+        {
+            "position": {
+                "y": 6.695233345031738, 
+                "x": 94.25
+            }, 
+            "data": {
+                "faveShape": "roundrectangle", 
+                "h": 30.0, 
+                "node_type": "notsure", 
+                "w": 70.0, 
+                "faveColor": "#666666", 
+                "id": "72", 
+                "name": "DF1"
+            }
+        }, 
+        {
+            "position": {
+                "y": -155.0, 
+                "x": 161.0
+            }, 
+            "data": {
+                "faveShape": "vee", 
+                "h": 40.0, 
+                "node_type": "notsure", 
+                "w": 110.0, 
+                "faveColor": "#666666", 
+                "id": "80", 
+                "name": "Dark"
+            }
+        }, 
+        {
+            "position": {
+                "y": 6.695233345031738, 
+                "x": -83.25
+            }, 
+            "data": {
+                "faveShape": "roundrectangle", 
+                "h": 30.0, 
+                "node_type": "notsure", 
+                "w": 70.0, 
+                "faveColor": "#666666", 
+                "id": "79", 
+                "name": "DEWAX"
+            }
+        }, 
+        {
+            "position": {
+                "y": 189.5, 
+                "x": -80.0
+            }, 
+            "data": {
+                "faveShape": "roundrectangle", 
+                "h": 30.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#666666", 
+                "id": "78", 
+                "name": "SCARECROW"
             }
         }
     ], 
     "edges": [
         {
             "data": {
-                "source": "80", 
-                "target": "77", 
+                "source": "72", 
+                "target": "75", 
                 "naclsign": 7, 
                 "sourceArrowShape": "none", 
                 "targetArrowShape": "triangle", 
@@ -153,8 +153,8 @@
         }, 
         {
             "data": {
-                "source": "72", 
-                "target": "78", 
+                "source": "80", 
+                "target": "74", 
                 "naclsign": 7, 
                 "sourceArrowShape": "none", 
                 "targetArrowShape": "tee", 
@@ -167,7 +167,7 @@
         }, 
         {
             "data": {
-                "source": "75", 
+                "source": "77", 
                 "target": "76", 
                 "naclsign": 7, 
                 "sourceArrowShape": "none", 
@@ -181,12 +181,12 @@
         }, 
         {
             "data": {
-                "source": "72", 
-                "target": "73", 
+                "source": "80", 
+                "target": "79", 
                 "naclsign": 7, 
                 "sourceArrowShape": "none", 
-                "targetArrowShape": "tee", 
-                "faveColor": "#ff0000", 
+                "targetArrowShape": "triangle", 
+                "faveColor": "#009900", 
                 "fesign": 7, 
                 "lineStyle": "dashed", 
                 "id": "Dark (Lit) DEWAX", 
@@ -195,8 +195,8 @@
         }, 
         {
             "data": {
-                "source": "75", 
-                "target": "80", 
+                "source": "77", 
+                "target": "72", 
                 "naclsign": 7, 
                 "sourceArrowShape": "none", 
                 "targetArrowShape": "tee", 
@@ -209,8 +209,8 @@
         }, 
         {
             "data": {
-                "source": "73", 
-                "target": "77", 
+                "source": "79", 
+                "target": "75", 
                 "naclsign": 7, 
                 "sourceArrowShape": "none", 
                 "targetArrowShape": "tee", 
@@ -223,8 +223,8 @@
         }, 
         {
             "data": {
-                "source": "79", 
-                "target": "77", 
+                "source": "73", 
+                "target": "75", 
                 "naclsign": 7, 
                 "sourceArrowShape": "none", 
                 "targetArrowShape": "tee", 
@@ -237,22 +237,8 @@
         }, 
         {
             "data": {
-                "source": "75", 
-                "target": "79", 
-                "naclsign": 7, 
-                "sourceArrowShape": "none", 
-                "targetArrowShape": "triangle", 
-                "faveColor": "#009933", 
-                "fesign": 7, 
-                "lineStyle": "dashed", 
-                "id": "Light (Lit) ERF6", 
-                "line-width": "Light (Lit) ERF6"
-            }
-        }, 
-        {
-            "data": {
-                "source": "73", 
-                "target": "74", 
+                "source": "79", 
+                "target": "78", 
                 "naclsign": 7, 
                 "sourceArrowShape": "none", 
                 "targetArrowShape": "triangle", 
@@ -265,8 +251,22 @@
         }, 
         {
             "data": {
+                "source": "77", 
+                "target": "73", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "triangle", 
+                "faveColor": "#009933", 
+                "fesign": 7, 
+                "lineStyle": "dashed", 
+                "id": "Light (Lit) ERF6", 
+                "line-width": "Light (Lit) ERF6"
+            }
+        }, 
+        {
+            "data": {
                 "source": "76", 
-                "target": "74", 
+                "target": "78", 
                 "naclsign": 7, 
                 "sourceArrowShape": "none", 
                 "targetArrowShape": "tee", 
@@ -279,8 +279,8 @@
         }, 
         {
             "data": {
-                "source": "78", 
-                "target": "77", 
+                "source": "74", 
+                "target": "75", 
                 "naclsign": 7, 
                 "sourceArrowShape": "none", 
                 "targetArrowShape": "tee", 
