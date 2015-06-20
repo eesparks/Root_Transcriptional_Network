@@ -8,9 +8,13 @@ To Run Locally:
     
       git clone https://github.com/eesparks/Root_Transcriptional_Network.git
 
-  - Run local python server in the Root_Transcriptional_Network folder ::
+  - Install python requirements::
   
-      python -m SimpleHTTPServer
+      sudo pip install -r requirements.txt
+
+  - Run local python server in the Root_Transcriptional_Network folder ::
+    
+      python run.py
 
   - Open web browser http://127.0.0.1:8000/
 
