@@ -27,7 +27,6 @@ def requires_auth(f):
         return f(*args, **kwargs)
     return decorated
 
-
 @app.route('/')
 @requires_auth
 def home():
