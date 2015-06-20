@@ -9,7 +9,7 @@ def check_auth(username, password):
     """This function is called to check if a username /
     password combination is valid.
     """
-    return username == 'admin' and password == 'secret'
+    return username == 'admin' and password == 'benfeyroots15'
 
 def authenticate():
     """Sends a 401 response that enables basic auth"""
@@ -37,7 +37,6 @@ def home():
 @requires_auth
 def index():
     return app.send_static_file('index.html')
-
 
 @app.route('/2_TF_Clusters.html')
 @requires_auth
@@ -74,5 +73,3 @@ def scr_v():
 @requires_auth
 def light():
     return app.send_static_file('8_Light.html')
-
-
