@@ -1,0 +1,1320 @@
+{
+    "nodes": [
+        {
+            "position": {
+                "y": -41.543800354003906, 
+                "x": -570.0240478515625
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2525", 
+                "name": "ILR3 (AT5G54680)"
+            }
+        }, 
+        {
+            "position": {
+                "y": -63.18678283691406, 
+                "x": 248.82504272460938
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2524", 
+                "name": "ERF5 (AT5G47230)"
+            }
+        }, 
+        {
+            "position": {
+                "y": -420.9324645996094, 
+                "x": -905.0689086914062
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2527", 
+                "name": "bZIP30 (AT2G21230)"
+            }
+        }, 
+        {
+            "position": {
+                "y": -633.6806030273438, 
+                "x": 193.63577270507812
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2526", 
+                "name": "ZML1 (AT3G21175)"
+            }
+        }, 
+        {
+            "position": {
+                "y": -172.45489501953125, 
+                "x": -962.892333984375
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2521", 
+                "name": "ERF104 (AT5G61600)"
+            }
+        }, 
+        {
+            "position": {
+                "y": -756.8775024414062, 
+                "x": -492.6075439453125
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2520", 
+                "name": "DEWAX (AT5G61590)"
+            }
+        }, 
+        {
+            "position": {
+                "y": -679.9818115234375, 
+                "x": -763.201904296875
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2523", 
+                "name": "HB34 (AT3G28920)"
+            }
+        }, 
+        {
+            "position": {
+                "y": -359.15277099609375, 
+                "x": -939.8421020507812
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2522", 
+                "name": "PIF3 (AT1G09530)"
+            }
+        }, 
+        {
+            "position": {
+                "y": -369.00994873046875, 
+                "x": -324.875732421875
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2529", 
+                "name": "E2Fc (AT1G47870)"
+            }
+        }, 
+        {
+            "position": {
+                "y": -94.09199523925781, 
+                "x": -844.652587890625
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2528", 
+                "name": "ARF8 (AT5G37020)"
+            }
+        }, 
+        {
+            "position": {
+                "y": -683.8637084960938, 
+                "x": 313.1388244628906
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2550", 
+                "name": "ERF6 (AT4G17490)"
+            }
+        }, 
+        {
+            "position": {
+                "y": -234.94219970703125, 
+                "x": -21.025527954101562
+            }, 
+            "data": {
+                "faveShape": "roundrectangle", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 200.0, 
+                "faveColor": "#9999FF", 
+                "id": "2551", 
+                "name": "SHORTROOT"
+            }
+        }, 
+        {
+            "position": {
+                "y": -159.60350036621094, 
+                "x": 348.95294189453125
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2552", 
+                "name": "JMJ18 (AT1G30810)"
+            }
+        }, 
+        {
+            "position": {
+                "y": -6.400566101074219, 
+                "x": -194.92477416992188
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2553", 
+                "name": "NAC13 (AT1G32870)"
+            }
+        }, 
+        {
+            "position": {
+                "y": -52.45758056640625, 
+                "x": -88.48126220703125
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2554", 
+                "name": "TGA5 (AT5G06960)"
+            }
+        }, 
+        {
+            "position": {
+                "y": -253.00933837890625, 
+                "x": 331.75018310546875
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2555", 
+                "name": "HB13 (AT1G69780)"
+            }
+        }, 
+        {
+            "position": {
+                "y": -95.5994873046875, 
+                "x": -672.9591674804688
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2556", 
+                "name": "bHLH093 (AT5G65640)"
+            }
+        }, 
+        {
+            "position": {
+                "y": -139.82858276367188, 
+                "x": -254.26718139648438
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2557", 
+                "name": "ARF10 (AT2G28350)"
+            }
+        }, 
+        {
+            "position": {
+                "y": -62.14207458496094, 
+                "x": -270.83197021484375
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2558", 
+                "name": "ERF2 (AT5G47220)"
+            }
+        }, 
+        {
+            "position": {
+                "y": -556.6165161132812, 
+                "x": 437.8961181640625
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2559", 
+                "name": "HSFC1 (AT3G24520)"
+            }
+        }, 
+        {
+            "position": {
+                "y": -702.8601684570312, 
+                "x": 164.607177734375
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2543", 
+                "name": "DDF1 (AT1G12610)"
+            }
+        }, 
+        {
+            "position": {
+                "y": -580.4390869140625, 
+                "x": 298.8621826171875
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2542", 
+                "name": "GBF1 (AT4G36730)"
+            }
+        }, 
+        {
+            "position": {
+                "y": -321.3842468261719, 
+                "x": 329.6578369140625
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2541", 
+                "name": "EDF3 (AT3G25730)"
+            }
+        }, 
+        {
+            "position": {
+                "y": 32.693328857421875, 
+                "x": 82.79920959472656
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2540", 
+                "name": "ERF9 (AT5G44210)"
+            }
+        }, 
+        {
+            "position": {
+                "y": -636.024169921875, 
+                "x": 416.1539611816406
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2547", 
+                "name": "ERF15 (AT2G31230)"
+            }
+        }, 
+        {
+            "position": {
+                "y": -480.1509094238281, 
+                "x": 446.96478271484375
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2546", 
+                "name": "GRF1 (AT2G22840)"
+            }
+        }, 
+        {
+            "position": {
+                "y": -901.4082541714862, 
+                "x": 71.11628836102636
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2545", 
+                "name": "DF1 (AT1G76880)"
+            }
+        }, 
+        {
+            "position": {
+                "y": -30.43531036376953, 
+                "x": 108.36740112304688
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2544", 
+                "name": "ASIL1 (AT1G54060)"
+            }
+        }, 
+        {
+            "position": {
+                "y": 5.20704460144043, 
+                "x": 229.22384643554688
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2549", 
+                "name": "ERF4 (AT3G15210)"
+            }
+        }, 
+        {
+            "position": {
+                "y": -312.0174865722656, 
+                "x": 492.91424560546875
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2548", 
+                "name": "bZIP17 (AT2G40940)"
+            }
+        }, 
+        {
+            "position": {
+                "y": -116.43133544921875, 
+                "x": -501.99676513671875
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2538", 
+                "name": "bHLH121 (AT3G19860)"
+            }
+        }, 
+        {
+            "position": {
+                "y": -232.11001586914062, 
+                "x": -864.8938598632812
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2539", 
+                "name": "AREB3 (AT3G56850)"
+            }
+        }, 
+        {
+            "position": {
+                "y": -253.62789916992188, 
+                "x": -622.4733276367188
+            }, 
+            "data": {
+                "faveShape": "roundrectangle", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 200.0, 
+                "faveColor": "#9999FF", 
+                "id": "2532", 
+                "name": "SCARECROW"
+            }
+        }, 
+        {
+            "position": {
+                "y": -775.8177490234375, 
+                "x": 75.94007873535156
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2533", 
+                "name": "AT2G44730"
+            }
+        }, 
+        {
+            "position": {
+                "y": -735.0611572265625, 
+                "x": -646.2837524414062
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2530", 
+                "name": "STK01 (AT1G61730)"
+            }
+        }, 
+        {
+            "position": {
+                "y": -522.4252319335938, 
+                "x": -19.611610412597656
+            }, 
+            "data": {
+                "faveShape": "diamond", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 175.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2531", 
+                "name": "CRF8 (AT1G71130)"
+            }
+        }, 
+        {
+            "position": {
+                "y": -158.8102264404297, 
+                "x": -816.2166137695312
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2536", 
+                "name": "AT2G47890"
+            }
+        }, 
+        {
+            "position": {
+                "y": -801.4602661132812, 
+                "x": -354.8355712890625
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2537", 
+                "name": "DREB2A (AT5G05410)"
+            }
+        }, 
+        {
+            "position": {
+                "y": -592.615478515625, 
+                "x": -823.3475952148438
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2534", 
+                "name": "BBX21 (AT1G75540)"
+            }
+        }, 
+        {
+            "position": {
+                "y": -757.569091796875, 
+                "x": -125.83323669433594
+            }, 
+            "data": {
+                "faveShape": "ellipse", 
+                "h": 50.0, 
+                "node_type": "notsure", 
+                "w": 150.0, 
+                "faveColor": "#CCCCCC", 
+                "id": "2535", 
+                "name": "AREB2 (AT3G19290)"
+            }
+        }
+    ], 
+    "edges": [
+        {
+            "data": {
+                "source": "2557", 
+                "target": "2551", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#999999", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT2G28350 (PD) AT4G37650", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2547", 
+                "target": "2551", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#FF0000", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT2G31230 (PD) AT4G37650", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2521", 
+                "target": "2532", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#999999", 
+                "fesign": 7, 
+                "lineStyle": "dashed", 
+                "id": "AT5G61600 (PD) AT3G54220", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2525", 
+                "target": "2532", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#999999", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT5G54680 (PD) AT3G54220", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2554", 
+                "target": "2531", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#999999", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT5G06960 (PD) AT1G71130", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2549", 
+                "target": "2551", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#999999", 
+                "fesign": 7, 
+                "lineStyle": "dashed", 
+                "id": "AT3G15210 (PD) AT4G37650", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2544", 
+                "target": "2551", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#999999", 
+                "fesign": 7, 
+                "lineStyle": "dashed", 
+                "id": "AT1G54060 (PD) AT4G37650", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2541", 
+                "target": "2531", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#FF0033", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT3G25730 (PD) AT1G71130", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2526", 
+                "target": "2551", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#FF0000", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT3G21175 (PD) AT4G37650", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2542", 
+                "target": "2551", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#FF0000", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT4G36730 (PD) AT4G37650", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2546", 
+                "target": "2551", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#FF0000", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT2G22840 (PD) AT4G37650", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2529", 
+                "target": "2532", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#999999", 
+                "fesign": 7, 
+                "lineStyle": "dashed", 
+                "id": "AT1G47870 (PD) AT3G54220", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2543", 
+                "target": "2531", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#FF0033", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT1G12610 (PD) AT1G71130", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2529", 
+                "target": "2531", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#009900", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT1G47870 (PD) AT1G71130", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2556", 
+                "target": "2532", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#999999", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT5G65640 (PD) AT3G54220", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2537", 
+                "target": "2532", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#990099", 
+                "fesign": 7, 
+                "lineStyle": "dashed", 
+                "id": "AT5G05410 (PD) AT3G54220", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2537", 
+                "target": "2531", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#009900", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT5G05410 (PD) AT1G71130", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2530", 
+                "target": "2551", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#009900", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT1G61730 (PD) AT4G37650", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2530", 
+                "target": "2532", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#009900", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT1G61730 (PD) AT3G54220", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2548", 
+                "target": "2551", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#0000FF", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT2G40950 (PD) AT4G37650", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2553", 
+                "target": "2551", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#999999", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT1G32870 (PD) AT4G37650", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2533", 
+                "target": "2551", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#FF0000", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT2G44730 (PD) AT4G37650", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2538", 
+                "target": "2532", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#999999", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT3G19860 (PD) AT3G54220", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2558", 
+                "target": "2551", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#999999", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT5G47220 (PD) AT4G37650", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2533", 
+                "target": "2532", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#999999", 
+                "fesign": 7, 
+                "lineStyle": "dashed", 
+                "id": "AT2G44730 (PD) AT3G54220", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2522", 
+                "target": "2532", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#FF0000", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT1G09530 (PD) AT3G54220", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2534", 
+                "target": "2532", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#009933", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT1G75540 (PD) AT3G54220", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2531", 
+                "target": "2531", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#0000FF", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT1G71130 (PD) AT1G71130", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2531", 
+                "target": "2551", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#009900", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT1G71130 (PD) AT4G37650", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2554", 
+                "target": "2551", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#999999", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT5G06960 (PD) AT4G37650", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2541", 
+                "target": "2551", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#3333FF", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT3G25730 (PD) AT4G37650", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2548", 
+                "target": "2531", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#FF0033", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT2G40950 (PD) AT1G71130", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2545", 
+                "target": "2551", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#009900", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT1G76880 (PD) AT4G37650", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2543", 
+                "target": "2551", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#FF0000", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT1G12610 (PD) AT4G37650", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2528", 
+                "target": "2532", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#999999", 
+                "fesign": 7, 
+                "lineStyle": "dashed", 
+                "id": "AT5G37020 (PD) AT3G54220", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2520", 
+                "target": "2532", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#009900", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT5G61590 (PD) AT3G54220", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2550", 
+                "target": "2551", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#FF0000", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT4G17490 (PD) AT4G37650", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2520", 
+                "target": "2551", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#FF0000", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT5G61590 (PD) AT4G37650", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2539", 
+                "target": "2532", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#999999", 
+                "fesign": 7, 
+                "lineStyle": "dashed", 
+                "id": "AT3G56850 (PD) AT3G54220", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2524", 
+                "target": "2551", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#999999", 
+                "fesign": 7, 
+                "lineStyle": "dashed", 
+                "id": "AT5G47230 (PD) AT4G37650", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2559", 
+                "target": "2551", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#FF0000", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT3G24520 (PD) AT4G37650", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2537", 
+                "target": "2551", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#009900", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT5G05410 (PD) AT4G37650", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2529", 
+                "target": "2551", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#999999", 
+                "fesign": 7, 
+                "lineStyle": "dashed", 
+                "id": "AT1G47870 (PD) AT4G37650", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2536", 
+                "target": "2532", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#999999", 
+                "fesign": 7, 
+                "lineStyle": "dashed", 
+                "id": "AT2G47890 (PD) AT3G54220", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2555", 
+                "target": "2551", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#3333FF", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT1G69780 (PD) AT4G37650", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2540", 
+                "target": "2551", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#999999", 
+                "fesign": 7, 
+                "lineStyle": "dashed", 
+                "id": "AT5G44210 (PD) AT4G37650", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2527", 
+                "target": "2532", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#FF0000", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT2G21230 (PD) AT3G54220", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2533", 
+                "target": "2531", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#009900", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT2G44730 (PD) AT1G71130", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2523", 
+                "target": "2532", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#009900", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT3G28920 (PD) AT3G54220", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2535", 
+                "target": "2551", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#009900", 
+                "fesign": 7, 
+                "lineStyle": "solid", 
+                "id": "AT3G19290 (PD) AT4G37650", 
+                "line-width": "PD"
+            }
+        }, 
+        {
+            "data": {
+                "source": "2552", 
+                "target": "2551", 
+                "naclsign": 7, 
+                "sourceArrowShape": "none", 
+                "targetArrowShape": "none", 
+                "faveColor": "#990099", 
+                "fesign": 7, 
+                "lineStyle": "dashed", 
+                "id": "AT1G30810 (PD) AT4G37650", 
+                "line-width": "PD"
+            }
+        }
+    ]
+}

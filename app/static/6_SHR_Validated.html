@@ -19,18 +19,14 @@
 
   <script src="js/generalpurpose_network.js"></script>
   <script type="text/javascript" src="src/jquery.cytoscape-panzoom.js"></script>
-  <script> drawNetwork('json/sub_network2.json'); </script>
+  <script> drawNetwork('json/SHR_validated_resub.json'); </script>
 <nav>
     <!-- Collect the nav links, forms, and other content for toggling -->
       <ul class="nav nav-tabs" role="tablist">
-        <li ><a  href="index.html">1_Full_Network</a></li>
-        <li ><a  href="2_TF_Clusters.html">2_TF_Clusters</a></li>
-        <li ><a  href="3_Motifs_Network_Supp.html">3_Motifs_Network_Supp</a></li>
-        <li ><a  href="4_SHR_All.html">4_SHR_All</a></li>
-        <li ><a  href="5_SCR_All.html">5_SCR_All</a></li>
-        <li class="active" ><a  href="6_SHR_Validated.html">6_SHR_Validated</a></li>
-        <li ><a  href="7_SCR_Validated.html">7_SCR_Validated</a></li>
-        <li ><a  href="8_Light.html">8_Light</a></li>
+        <li ><a  href="index.html">2B_Full_Network</a></li>
+        <li ><a  href="2_TF_Clusters.html">3A_TF_Clusters</a></li>
+        <li ><a  href="4_SHR_All.html">3B_SCR_SHR_All</a></li>
+        <li class="active" ><a  href="6_SHR_Validated.html">4D_SCR_SHR_Validated</a></li>
 
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Cite<span class="caret"></span></a>
@@ -61,15 +57,20 @@
     </div>
     <div class="row">
      <div class="col-md-2">
-       <div class="line" style="background-color: #999999;"> </div> <div class="text-box">= Unclear </div> </div>
+       <div class="line" style="background-color: #999999;"> </div> <div class="text-box">= Not Tested </div> </div>
      <div class="col-md-2">
        <div class="line" style="background-color: #ff0000;"> </div> <div class="text-box">= Repressor </div> </div>
      <div class="col-md-2">
        <div class="line" style="background-color: #009933;"> </div> <div class="text-box">= Activator </div> </div>
-   </div>
- 
+     <div class="col-md-2">
+    <div class="line" style="background-color: #3871c2;"> </div> <div class="text-box">= Non-Linear </div> </div>
+     <div class="col-md-2">
+    <div class="dline" style="background-color: #0000000;"> </div> <div class="text-box">= Not Validated </div> </div>
+    <div class="col-md-2">
+       <div class="dline_pur" style="background-color: #0000000;"> </div> <div class="text-box">= Allele-Dependent </div> </div>
+    </div>
    <div id="cy"></div>
- 
+
 </div>
 </body>
 </html>
