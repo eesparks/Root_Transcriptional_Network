@@ -19,14 +19,14 @@
 
   <script src="js/generalpurpose_network.js"></script>
   <script type="text/javascript" src="src/jquery.cytoscape-panzoom.js"></script>
-  <script> drawNetwork('json/full_network.json'); </script>
+  <script> drawNetwork('json/SHR_validated_resub.json'); </script>
 <nav>
     <!-- Collect the nav links, forms, and other content for toggling -->
       <ul class="nav nav-tabs" role="tablist">
-        <li class="active" ><a  href="index.html">2B_Full_Network</a></li>
+        <li ><a  href="index.html">2B_Full_Network</a></li>
         <li ><a  href="3A_TF_Clusters.html">3A_TF_Clusters</a></li>
         <li ><a  href="3B_SCR_SHR_All.html">3B_SCR_SHR_All</a></li>
-        <li ><a  href="4D_SCR_SHR_Validated.html">4D_SCR_SHR_Validated</a></li>
+        <li class="active" ><a  href="4D_SCR_SHR_Validated.html">4D_SCR_SHR_Validated</a></li>
 
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Cite<span class="caret"></span></a>
@@ -53,19 +53,24 @@
     </div>
      <div class="col-lg-2">
      <button type="button" id="csv_output"> download interactions</button>
-   </div>
-   </div>
-   <div class="row">
+    </div>
+    </div>
+    <div class="row">
      <div class="col-md-2">
-       <div class="circle" style="background-color: #99ff99; "> </div> <div class="text-box">= TF only </div> </div>
+       <div class="line" style="background-color: #999999;"> </div> <div class="text-box">= Not Tested </div> </div>
      <div class="col-md-2">
-       <div class="diamond" style="background-color: #ffcccc;"> </div> <div class="text-box">= TF and DNA </div> </div>
+       <div class="line" style="background-color: #ff0000;"> </div> <div class="text-box">= Repressor </div> </div>
      <div class="col-md-2">
-       <div class="color-box" style="background-color: #9999ff;"> </div> <div class="text-box">= DNA only </div> </div>
-     </div>  
-  
+       <div class="line" style="background-color: #009933;"> </div> <div class="text-box">= Activator </div> </div>
+     <div class="col-md-2">
+    <div class="line" style="background-color: #3871c2;"> </div> <div class="text-box">= Non-Linear </div> </div>
+     <div class="col-md-2">
+    <div class="dline" style="background-color: #0000000;"> </div> <div class="text-box">= Not Validated </div> </div>
+    <div class="col-md-2">
+       <div class="dline_pur" style="background-color: #0000000;"> </div> <div class="text-box">= Allele-Dependent </div> </div>
+    </div>
    <div id="cy"></div>
- 
+
 </div>
 </body>
 </html>
