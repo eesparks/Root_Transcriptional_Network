@@ -1,10 +1,12 @@
 Root Transcriptional Gene Regulatory Networks
 ========================================================
 
+*Instructions for web-hosting networks found in Sparks et al., Developmental Cell 2016*
+
 To Run Locally:
 ================
 
-  - Downlaod from github using::
+  - Download from github using::
     
       git clone https://github.com/eesparks/Root_Transcriptional_Network.git
 
@@ -21,10 +23,9 @@ To Run Locally:
 To Send Privately for Review:
 =============================
 
-  - Downlaod from github using::
+  - Download from github using::
 
       git clone https://github.com/eesparks/Root_Transcriptional_Network.git
 
   - Send entire Root_Transcriptional_Network folder
-  - Have them open the index.html file in firfox or safari (for some reason chrome doesnt work proparly for this)
-
+  - Have them open the index.html file in firfox or safari (for some reason chrome doesnt work properly for this)
