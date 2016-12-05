@@ -14,11 +14,19 @@
 </head>
 <body>
   <script src="src/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.5.13/clipboard.min.js"></script>
   <script src="http://cytoscape.github.io/cytoscape.js/api/cytoscape.js-latest/cytoscape.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 
   <script src="js/generalpurpose_network.js"></script>
   <script type="text/javascript" src="src/jquery.cytoscape-panzoom.js"></script>
+  <script> new Clipboard('.copy-button');
+  var clipboard = new Clipboard('.copy-button');
+  text: function(trigger) {
+        return trigger.getAttribute('aria-label');
+    }
+  </script>
+
   <script> drawNetwork('json/SHR_validated_resub.json'); </script>
 <nav>
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -27,12 +35,8 @@
         <li ><a  href="3A_TF_Clusters.html">3A_TF_Clusters</a></li>
         <li ><a  href="3B_SCR_SHR_All.html">3B_SCR_SHR_All</a></li>
         <li class="active" ><a  href="4D_SCR_SHR_Validated.html">4D_SCR_SHR_Validated</a></li>
-
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Cite<span class="caret"></span></a>
-          <ul class="dropdown-menu" role="menu">
-            <li><a class="copy-button copy-html" href="#">Erin Sparks Root Transcriptional Networks (2015) Journal Name </a></li>
-          </ul>
+        <li ><a  href="cite.html">Citation</a></li>
+      </ul>
         </li>
       </ul>
 </nav>
